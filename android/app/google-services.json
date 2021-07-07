@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087582547703",
+    "project_id": "flachtest",
+    "storage_bucket": "flachtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087582547703:android:e7022b2f7f335dff44edf2",
+        "android_client_info": {
+          "package_name": "co.ahmedkz.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087582547703-1cgjaj4hu0kgldg85sn57iirjnr3elaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_H3DgilGZ5KPnc5-mlguOoOxrzpxfoRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087582547703-1cgjaj4hu0kgldg85sn57iirjnr3elaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
